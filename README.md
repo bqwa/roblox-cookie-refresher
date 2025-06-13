@@ -9,8 +9,9 @@ This bot, tagged as @roblox_cookie_refresh_bot, helps you refresh your Roblox co
 
 Features
 
-![Bot Avatar](https://github.com/bqwa/roblox-cookie-refresher/blob/main/c5c843ba-b6bf-40e8-ac9d-5352e678ec03.png)
-
+## Avatar
+![Bot Avatar](https://github.com/bqwa/roblox-cookie-refresher/blob/main/c5c843ba-b6bf-40e8-ac9d-5352e678ec03.png)  
+The bot's iconic neon purple avatar showcases a mysterious figure with a hat holding a cookie, symbolizing the refresh power! Click [here](https://t.me/roblox_cookie_refresh_bot) to visit the bot.
 
 
 Automatically refreshes Roblox cookies.
