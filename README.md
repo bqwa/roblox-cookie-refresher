@@ -1,7 +1,6 @@
 # roblox-cookie-refresher
 Roblox Cookie Refresher Bot
 
-Welcome to the Roblox Cookie Refresher Bot, a free tool designed to keep your Roblox experience fresh with cookie-based magic! 🍪🎩
 
 Overview
 
